@@ -17,6 +17,6 @@ Factory kwargs:
 
 ```html
 <form action=”” method=”POST”>
-{% formset %}
+{{% formset %}}
 </form>
 ```
